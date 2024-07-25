@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://author-number70.github.io/sitemap.xml
