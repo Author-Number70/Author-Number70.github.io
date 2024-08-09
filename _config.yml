@@ -319,7 +319,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
-      share: true
+      share: false
       related: true
+      toc : true
+      sidebar :
+        nav : "main-sidebar"

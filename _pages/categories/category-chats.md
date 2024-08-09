@@ -1,11 +1,8 @@
 ---
 title: "잡담"
 layout: archive
-permalink: categories/category-잡담
-author_profile: true
-sidebar_main: true
+permalink: /chats/
 ---
 
-
-{% assign posts = site.categories.잡담 %}
+{% assign posts = site.categories.chats %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

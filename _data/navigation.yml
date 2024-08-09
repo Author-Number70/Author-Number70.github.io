@@ -9,12 +9,10 @@
 #  - title: "Tags"
 #    url: /tags/
 
-sidebar-category:
+main-sidebar:
   - title: "카테고리"
     children:
-      - title: "chat"
-        url: "categories/chat"
-      - title: "정보보안기사"
-        url: "categories/security"
-#      - title: "카테고리C"
-#        url:  "/CategoryC"
+      - title: "잡담"
+        url: "/chats"
+      - title: "보안"
+        url: "/securities"
